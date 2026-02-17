@@ -37,7 +37,7 @@ let users = [
         att: 84,
         uid: 5,
         total_sub: 14,
-        name: "Priya",
+        name: "Anshu",
         bonus: 18
     },
     {
