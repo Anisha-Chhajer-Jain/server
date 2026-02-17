@@ -30,18 +30,18 @@ let users = [
         att: 85,
         uid: 4,
         total_sub: 14,
-        name: "Shabdh",
+        name: "Priya",
         bonus: 16
     },
     {
         att: 84,
         uid: 5,
         total_sub: 14,
-        name: "Anshu",
+        name: "Priya",
         bonus: 18
     },
     {
-        att: 80,
+        att: 90,
         uid: 6,
         total_sub: 14,
         name: "Hanuman",
